@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "275244445334",
-    "firebase_url": "https://fire-todo-76bd4.firebaseio.com",
-    "project_id": "fire-todo-76bd4",
-    "storage_bucket": "fire-todo-76bd4.appspot.com"
+    "project_number": "156604042273",
+    "firebase_url": "https://artcaico-fca1f.firebaseio.com",
+    "project_id": "artcaico-fca1f",
+    "storage_bucket": "artcaico-fca1f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:275244445334:android:e4444ac66d111ba4905cb7",
+        "mobilesdk_app_id": "1:156604042273:android:376a0e1954aab0fb462760",
         "android_client_info": {
-          "package_name": "com.example.todo_list"
+          "package_name": "com.example.artcaico"
         }
       },
       "oauth_client": [
         {
-          "client_id": "275244445334-1eqq7ebr9uhgf6lddnl4n0lqq2u86f8r.apps.googleusercontent.com",
+          "client_id": "156604042273-vv54qbtrg9oi7gr84hpdaa11cnn86r3e.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBAxd09nj4gcMNQvyXfAFHXKqrKVb69yLs"
+          "current_key": "AIzaSyAYzV5UTLptpkAY8mmbIfbRyf-Pxs8-jPw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "275244445334-1eqq7ebr9uhgf6lddnl4n0lqq2u86f8r.apps.googleusercontent.com",
+              "client_id": "156604042273-vv54qbtrg9oi7gr84hpdaa11cnn86r3e.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
