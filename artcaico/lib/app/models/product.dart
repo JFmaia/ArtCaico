@@ -4,7 +4,6 @@ class Product {
   final String description;
   final double price;
   final String imageUrl;
-  bool isFavorite;
 
   Product({
     this.id,
@@ -12,6 +11,5 @@ class Product {
     this.description,
     this.price,
     this.imageUrl,
-    this.isFavorite,
   });
 }
