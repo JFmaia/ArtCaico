@@ -28,6 +28,12 @@ class AppDrawer extends StatelessWidget {
             title: Text('Gerenciar Produtos'),
             onTap: () {},
           ),
+          Divider(),
+          ListTile(
+            leading: Icon(Icons.add_business),
+            title: Text('Criar Loja'),
+            onTap: () {},
+          ),
         ],
       ),
     );
