@@ -155,7 +155,7 @@ class _DetailStorePageState extends State<DetailStorePage> {
                   crossAxisCount: 3,
                   mainAxisSpacing: 5,
                   crossAxisSpacing: 5,
-                  childAspectRatio: 0.7,
+                  childAspectRatio: 0.6,
                 ),
               );
             },
