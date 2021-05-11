@@ -1,16 +1,13 @@
-# artca
+# ArtCaico
 
-A new Flutter project.
+O ArtCaico tem como objetivo trazer mais visibilidade para os produtos de vários artesões da cidade de Caicó-RN, internamente e externamente para os turistas. Além de estudar e praticar o uso do Mobx como gerencia de estato, Modular como gerencia de dependencias e pratica na criação de Layouts.
 
-## Getting Started
+## Tecnologias
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Mobx
+- Modular
+- Hasura
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
